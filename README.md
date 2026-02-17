@@ -2,7 +2,7 @@
 
 ### 📊 Моя статистика GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=effect707&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=effect707&show_icons=true&theme=radical)
 
 ### 🔥 Streak статистика:
 
