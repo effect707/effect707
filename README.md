@@ -37,8 +37,7 @@
 
 ### 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](ваша_ссылка)
-[![VK](https://img.shields.io/badge/-VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](ваша_ссылка)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marty_supreme67)
 
 ---
 
