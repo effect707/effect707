@@ -24,7 +24,6 @@
 
 <div align="center">
 
-![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=effect707&theme=github_dark)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=effect707&theme=github_dark)
 
 </div>
