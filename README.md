@@ -1,21 +1,51 @@
-## 👋 Привет! Я Глеб
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Effect707&fontSize=80&animation=fadeIn)
 
-### 📊 Моя статистика GitHub:
+## 👋 Привет! Я Effect707
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=effect707&show_icons=true&theme=radical)
+🔭 Работаю над интересными проектами  
+🌱 Постоянно учусь и развиваюсь  
+⚡ Люблю код и технологии
 
-### 🔥 Streak статистика:
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=effect707&theme=radical)
+### 📊 Моя статистика GitHub
 
-### 💻 Самые используемые языки:
+<div align="center">
+  
+![Streak Stats](https://streak-stats.demolab.com/?user=effect707&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effect707&layout=compact&theme=radical)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=effect707&theme=github_dark)
 
-### 🏆 GitHub Trophies:
+</div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=effect707&theme=radical&row=1)
+### 💻 Языки и технологии
 
-### 📈 График активности:
+<div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=effect707&theme=radical)
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=effect707&theme=github_dark)
+![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=effect707&theme=github_dark)
+
+</div>
+
+---
+
+### 📈 График активности
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=effect707&theme=github-compact&hide_border=true)
+
+---
+
+### 📫 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](ваша_ссылка)
+[![VK](https://img.shields.io/badge/-VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](ваша_ссылка)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=effect707&color=blueviolet)
+
+</div>
