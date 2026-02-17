@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Привет! Я Глеб
 
-<!--
-**effect707/effect707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Моя статистика GitHub:
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=effect707&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Streak статистика:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=effect707&theme=radical)
+
+### 💻 Самые используемые языки:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effect707&layout=compact&theme=radical)
+
+### 🏆 GitHub Trophies:
+
+![trophy](https://github-profile-trophy.vercel.app/?username=effect707&theme=radical&row=1)
+
+### 📈 График активности:
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=effect707&theme=radical)
