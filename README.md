@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Effect707&fontSize=80&animation=fadeIn)
 
-## 👋 Привет! Я Effect707
+## 👋 Привет! Я Gleb (Effect707)
 
 🔭 Работаю над интересными проектами  
 🌱 Постоянно учусь и развиваюсь  
@@ -18,12 +18,26 @@
 
 </div>
 
+---
+
 ### 💻 Языки и технологии
 
 <div align="center">
 
 ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=effect707&theme=github_dark)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=effect707&theme=github_dark)
+
+</div>
+
+---
+
+### 🔥 Статистика коммитов
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-qilm.vercel.app/api?username=effect707&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats-qilm.vercel.app/api/top-langs/?username=effect707&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 </div>
 
@@ -37,7 +51,11 @@
 
 ### 📫 Связаться со мной
 
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marty_supreme67)
+
+</div>
 
 ---
 
@@ -45,6 +63,6 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=effect707&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=effect707&color=blueviolet)
 
 </div>
